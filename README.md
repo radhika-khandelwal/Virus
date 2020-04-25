@@ -1,5 +1,6 @@
 # Virus
-This repository contains codebase as well as report for our course project : Data Driven Design on the topic titled #Virus Trends on Twitter Dataset using Topic Modelling.
+This repository contains our codebase as well as report submission on the project titled __#Virus Trends on Twitter Dataset using Topic Modelling__ for a course project under the guidance of __Sébastien Foucaud__
+
 
 **Collaborators**
 - Balbir Singh
