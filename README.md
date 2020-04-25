@@ -1,5 +1,5 @@
 # Virus
-This repository contains our codebase as well as report submission on the project titled __#Virus Trends on Twitter Dataset using Topic Modelling__ for a course project under the guidance of __Sébastien Foucaud__
+This repository contains our codebase as well as report submission on the project titled __#Virus Trends on Twitter Dataset using Topic Modelling__ for a course project under the guidance of professor __Sébastien Foucaud__.
 
 
 **Collaborators**
